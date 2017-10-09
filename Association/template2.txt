@@ -1,0 +1,3 @@
+(result21, cnt) = asso_rule.template2("RULE", 3)
+(result22, cnt) = asso_rule.template2("BODY", 2)
+(result23, cnt) = asso_rule.template2("HEAD", 1)
